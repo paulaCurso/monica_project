@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\JustEatNavarro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|e:\\justeatnavarro\\justeatnavarro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|solutionrelative:justeatnavarro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|e:\\justeatnavarro\\justeatnavarro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|solutionrelative:justeatnavarro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|e:\\justeatnavarro\\justeatnavarro\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|E:\\JustEatNavarro\\justeatnavarro\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D724E4EE-A873-4D08-B64A-46C5AC055470}|JustEatNavarro\\JustEatNavarro.csproj|solutionrelative:justeatnavarro\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,12 +49,25 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JustEatNavarro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\JustEatNavarro\\JustEatNavarro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JustEatNavarro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-02T10:40:56.746Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Web.config",
               "RelativeDocumentMoniker": "JustEatNavarro\\Web.config",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "JustEatNavarro\\Models\\Categoria.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Views\\Productos\\Edit.cshtml",
               "RelativeDocumentMoniker": "JustEatNavarro\\Views\\Productos\\Edit.cshtml",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "JustEatNavarro\\Views\\Productos\\Edit.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-02T09:39:29.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-02T09:39:29.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "JustEatNavarro\\Controllers\\ProductosController.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConductoresController.cs",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Controllers\\ConductoresController.cs",
               "RelativeDocumentMoniker": "JustEatNavarro\\Controllers\\ConductoresController.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\JustEatNavarro\\JustEatNavarro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JustEatNavarro\\Views\\Shared\\_Layout.cshtml",
@@ -120,8 +136,7 @@
               "RelativeToolTip": "JustEatNavarro\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAIAwwBgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-02T09:39:29.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-02T09:39:29.742Z"
             }
           ]
         }
